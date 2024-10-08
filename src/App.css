@@ -1,0 +1,10 @@
+.containerr{
+  display: flex;
+  margin-top: 50px;
+  flex-wrap: wrap;
+
+}
+.bgb{
+  display: flex;
+  justify-content: space-between;
+}
